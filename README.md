@@ -1,1 +1,1 @@
-# openAI-Projects
+#OpenAI-Projects
